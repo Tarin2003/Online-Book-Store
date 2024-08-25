@@ -1,0 +1,55 @@
+
+body{
+  margin: 0;
+}
+  
+  .nevbar
+  
+  {
+ background-color: black;
+    padding: 0px;
+   
+    display: flex;
+    position: fixed;
+    width: 100%;
+   justify-content: space-between;
+   align-items: center;
+   top:0;
+  
+  
+  }
+  
+  .logo img{
+    height: 60px;
+    width: 60px;
+  }
+    
+    .heading h1{
+      color: white;
+    }
+    .menubar a{
+        color: white;
+   text-decoration: none;
+  
+   padding: 10px;
+  
+  
+
+    }
+    
+    .menubar a:hover{
+     
+    
+  background-color: blueviolet;
+    font-size: large;
+  
+    }
+    .menubar a:active{
+      background-color: brown;
+     }
+    
+    
+    
+   
+    
+  

@@ -1,0 +1,58 @@
+.menubar a.user{
+    background-color:  gray;;
+}
+ 
+ textarea{
+    height: 230px;
+    width: 300px;
+ }
+ .img1{
+    text-align: center;
+    margin-left:100px;
+
+ }
+.card1{
+    margin: 10px;
+    width: 400px;
+    
+  margin-left: 400px;
+     
+     height: 400px;
+   
+    padding-left: 10px;
+    padding-bottom: 20px;
+  text-align: center;
+   box-sizing: border-box;
+   box-shadow: 1px 2px 4px black
+  
+  
+  
+
+}
+
+  
+
+.card1:hover{
+   
+    cursor: pointer;
+}
+
+
+
+.heder h1{
+    padding: 80px;
+    padding-bottom: 0px;
+    text-align: center;
+}
+.btn{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.btn:hover{
+    background-color: brown;
+}
