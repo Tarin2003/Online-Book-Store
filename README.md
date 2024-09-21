@@ -1,7 +1,7 @@
 # Online Book Store
 This project is a simple web application for an online book store, allowing users to register, log in, view books, manage a shopping cart, and confirm orders.
 
-## Features:
+## Features
 
 Home Page: Introduction to the online book store with navigation links.
 
